@@ -1,2 +1,0 @@
-# Selenium
-Automation_script
